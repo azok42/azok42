@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there.
 
-<!--
-**azok42/azok42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What the *frick* are you doing here? Nothing to see here.
 
-Here are some ideas to get you started:
+<sub>Anyways...<sub>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats
+
+- Hackatime
+
+[![](https://github-readme-stats.hackclub.dev/api/wakatime?username=8936&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)](https://hackatime.hackclub.com/@Azok42)
+
+<a href="https://heatmap.shymike.dev?id=8936&timezone=Europe%2FVienna&cell_size=13&rounding=0&ranges=70%2C30%2C1&standalone=true" title="Click to view detailed data for each day!">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=8936&timezone=Europe%2FVienna&cell_size=13&rounding=0&ranges=70%2C30%2C1&theme=dark">
+        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=8936&timezone=Europe%2FVienna&cell_size=13&rounding=0&ranges=70%2C30%2C1&theme=light">
+    </picture>
+</a>
